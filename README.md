@@ -6,13 +6,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Nadeesha Karunasingha</h1>
-<h3 align="center">I am undergraduate in bsc(hons) in Information Technology at NIIBS campus and I currently work at SLT Mobitel under the internship</h3>
+<h3 align="center">I am undergraduate in bsc(hons) in Information Technology at NIIBS campus </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeeshakarunasingha&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshakarunasingha" /> </p>
 
 ---
 
-- 🔭 I’m currently working on **SLT Mobitel**
+
 
 - 🌱 I’m currently learning **python ,word press, MERN**
 
